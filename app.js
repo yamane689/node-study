@@ -5,4 +5,4 @@ for(let i=1;i<=number;i++){
     sum = sum + i;
 }
 console.log(sum);
-//勉強しようや
+//勉強しようやカス
